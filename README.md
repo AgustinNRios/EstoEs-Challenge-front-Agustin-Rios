@@ -33,7 +33,7 @@ El usuario accede a un administrador de proyectos para realizar la gestión, pue
 
 ## Links
 
-- **FRONTEND:**  [https://challenge-front-esto-es-agustin-rios.netlify.app/](https://challenge-front-esto-es-agustin-rios.netlify.app/)
+- **Deploy:**  [https://challenge-front-esto-es-agustin-rios.netlify.app/](https://challenge-front-esto-es-agustin-rios.netlify.app/)
 
 ## Run app
 
