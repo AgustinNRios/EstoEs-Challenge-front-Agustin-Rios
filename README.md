@@ -16,12 +16,9 @@ El usuario accede a un administrador de proyectos para realizar la gestión, pue
 
 # Preview App
 
-![Preview](https://github.com/AgustinNRios/EstoEs-Challenge-front-Agustin-Rios/raw/master/previewEstoEs.PNG)
+[![Ver Video](https://github.com/AgustinNRios/EstoEs-Challenge-front-Agustin-Rios/raw/master/previewEstoEs.PNG)](https://drive.google.com/file/d/1GA5H6rl--Nk9VqFyB_VHgPfSWNWG9pHv/view?usp=drive_link)
 
 # **Descripción técnica**
-
-[![Ver Video](https://drive.google.com/file/d/1n3niR0OVExXcfiuHtxc8pGKg0xIxx-CJ/view?usp=sharing)](https://drive.google.com/file/d/1GA5H6rl--Nk9VqFyB_VHgPfSWNWG9pHv/view?usp=drive_link)
-
 
 La aplicación fue realizada en next.js
 
