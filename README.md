@@ -27,9 +27,9 @@ El usuario accede a un administrador de proyectos para realizar la gestión, pue
 
 # **Descripción técnica**
 
-La aplicación fue realizada en Next.js framework de React, con Typescript
-Gestion de estado(Mocks de Projects) con Zustand
-
+- La aplicación fue realizada en React y Next.js
+- Typescript
+- Gestion de estado(Mocks de Projects) con Zustand
 
 ## Links
 
