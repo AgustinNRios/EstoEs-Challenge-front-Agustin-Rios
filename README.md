@@ -17,8 +17,8 @@ El usuario accede a un administrador de proyectos para realizar la gestión, pue
 # Detalles extras
 
 - Creación de assets personalizados con suit adobe.
-- Atención al detalle, en el diseño.
-- Diseño de modal, buscador y selector (componentes que no estan en el figma) alineados a la identidad visual.
+- Atención al detalle en el diseño.
+- Diseño de modal, buscador y selector alineados a la identidad visual. (componentes que no están en el figma)
 - Estado intermedio de row entre desktop y mobile.
 
 # Preview App (Click en la imagen para ver Preview en video)
