@@ -16,7 +16,7 @@ El usuario accede a un administrador de proyectos para realizar la gestión, pue
 
 # Preview App
 
-![Preview](https://github.com/AgustinNRios/EstoEs-Challenge-front-Agustin-Rios/previewEstoEs.PNG)
+![Preview](https://github.com/AgustinNRios/EstoEs-Challenge-front-Agustin-Rios/raw/master/previewEstoEs.PNG)
 
 # **Descripción técnica**
 
