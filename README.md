@@ -14,10 +14,11 @@ El usuario accede a un administrador de proyectos para realizar la gestión, pue
 - El eliminar proyecto puede tener un modal que sugiera si esta seguro de realizar la acción o no
 - El listado de proyectos puede tener un buscador de la lista por nombre de proyecto
 
+# Preview App (Click en la imagen para ver Preview en video)
+
+[![Ver Video](https://github.com/AgustinNRios/EstoEs-Challenge-front-Agustin-Rios/raw/master/previewEstoEs.PNG)](https://drive.google.com/file/d/1GA5H6rl--Nk9VqFyB_VHgPfSWNWG9pHv/view?usp=drive_link)
+
 # **Descripción técnica**
-
-[![Ver Video](https://drive.google.com/file/d/1n3niR0OVExXcfiuHtxc8pGKg0xIxx-CJ/view?usp=sharing)](https://drive.google.com/file/d/1GA5H6rl--Nk9VqFyB_VHgPfSWNWG9pHv/view?usp=drive_link)
-
 
 La aplicación fue realizada en next.js
 
