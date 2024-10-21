@@ -20,11 +20,13 @@ El usuario accede a un administrador de proyectos para realizar la gestión, pue
 
 # **Descripción técnica**
 
-La aplicación fue realizada en next.js
+La aplicación fue realizada en Next.js framework de React, con Typescript
+Gestion de estado(Mocks de Projects) con Zustand
+
 
 ## Links
 
-- **FRONTEND:**  []()
+- **FRONTEND:**  [https://challenge-front-esto-es-agustin-rios.netlify.app/](https://challenge-front-esto-es-agustin-rios.netlify.app/)
 
 ## Run app
 
