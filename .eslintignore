@@ -1,0 +1,5 @@
+/__tests__/**/*
+/components/icons/**/*
+next.config.js
+postcss.config.js
+dev-script.js

@@ -1,0 +1,26 @@
+.project-form {
+  max-width: 600px;
+  padding: 40px;
+  border-radius: 8px;
+  background-color: #fff;
+  margin-top: 2rem;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.form-group input,
+.form-group textarea,
+.form-group select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

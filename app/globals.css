@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*::-webkit-scrollbar {
+    width: 8px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #e1e1e1;
+    border-radius: 4px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background-color: #d4d4d4;
+}
+
+*::-webkit-scrollbar-track {
+    background: white;
+    margin-inline-start: 3px;
+    border: 1px solid rgb(235, 235, 235);
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400; 
+}
+
+.with-shadow {
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.15);
+  }
+
+@layer base {
+  :root {
+        --radius: 0.5rem;
+    }
+}
