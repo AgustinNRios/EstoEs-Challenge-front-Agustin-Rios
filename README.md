@@ -16,7 +16,7 @@ El usuario accede a un administrador de proyectos para realizar la gestión, pue
 
 # **Descripción técnica**
 
-[![Ver Video](https://img.youtube.com/vi/1GA5H6rl--Nk9VqFyB_VHgPfSWNWG9pHv/hqdefault.jpg)](https://drive.google.com/file/d/1GA5H6rl--Nk9VqFyB_VHgPfSWNWG9pHv/view?usp=drive_link)
+[![Ver Video]()](https://drive.google.com/file/d/1GA5H6rl--Nk9VqFyB_VHgPfSWNWG9pHv/view?usp=drive_link)
 
 
 La aplicación fue realizada en next.js
