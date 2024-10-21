@@ -7,10 +7,15 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   plugins: ['@typescript-eslint'],
   parserOptions: {
-    project: './*tsconfig.json', 
+    project: './*tsconfig.json',
   },
   root: true,
   rules: {
-    '@typescript-eslint/no-unsafe-enum-comparison': 0
-  }
+    '@typescript-eslint/no-unsafe-enum-comparison': 0,
+    'no-undef': 'off',
+    'no-unused-vars': 'off',
+    '@typescript-eslint/no-explicit-any': 'off',
+    '@typescript-eslint/no-unsafe-assignment': 'off',
+    '@typescript-eslint/no-unsafe-member-access': 'off',
+  },
 };

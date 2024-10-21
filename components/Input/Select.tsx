@@ -1,5 +1,4 @@
 import React from 'react';
-import { Select as NextSelect, SelectItem } from '@nextui-org/react'
 
 interface SelectProps {
   id: string;
@@ -11,7 +10,7 @@ interface SelectProps {
 }
 
 // Select Component
-const Select: React.FC<SelectProps> = ({ id, name, value, onChange, options, error }) => (
+const Select: React.FC<SelectProps> = ({ id, value, onChange, options, error }) => (
   <div className="form-group mb-4">
     <select
       id={id}

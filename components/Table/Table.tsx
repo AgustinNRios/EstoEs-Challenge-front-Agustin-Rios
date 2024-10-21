@@ -9,7 +9,6 @@ import {
   DropdownMenu,
   DropdownItem,
   User,
-  ChipProps,
 } from '@nextui-org/react';
 import { VerticalDotsIcon } from '@/icons/VerticalDotsIcon';
 import { EditIcon } from '@/icons/EditIcon';
@@ -18,11 +17,6 @@ import { DialogArrow } from '@/icons/DialogArrow'
 import { columns } from '../../data/data';
 import useProjectsStore from '@/store/useProjectsStore';
 import Swal from 'sweetalert2';
-
-const statusColorMap: Record<string, ChipProps['color']> = {
-  ENABLED: 'success',
-  DISABLED: 'danger',
-};
 
 export default function CustomTable() {
   const router = useRouter();
